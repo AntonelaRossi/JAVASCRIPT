@@ -1,0 +1,21 @@
+.contenedorGeneral {
+    background-color: brown;
+    height: 100vh;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.logo {
+    margin-top: 30vh;
+    width: 15%;
+}
+
+.logo img {
+    
+    width: 100%; 
+}
